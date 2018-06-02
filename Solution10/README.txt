@@ -1,3 +1,5 @@
+This is the solution to Project Euler problem 10
+
 Building upon earlier prime problems, I think 4 and 7
 
 Steps
